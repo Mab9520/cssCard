@@ -66,7 +66,7 @@ img:hover{
     color: rgba(74, 27, 151, 0.336);
     font-size: 2rem;
 }
-.contenedor i:hover{
+.contenedor i:hover{ /*Efecto sobre el icono*/
     color: rgba(32, 25, 124, 0.479);
     font-size: 2rem;
     transform: scale(1.5);
