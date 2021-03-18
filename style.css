@@ -19,7 +19,7 @@ body{
     background-size: cover;
 }
 .card{
-    background-color:white;
+    background-color:rgb(156, 43, 43);/*Cambio de color a rojo*/
     color: rgba(0, 0, 0, 0.699) ;
     width: 80%;
     max-width: 20rem;
