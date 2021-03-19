@@ -9,8 +9,8 @@ body{
     background-color: #1c2b2d;
     font-family: 'Roboto', sans-serif;
     display: flex;
-
-  
+    justify-content: center;
+    align-items: center;
     width: 100vw;
     height: 100vh;
 }
@@ -19,7 +19,7 @@ body{
     background-size: cover;
 }
 .card{
-    background-color:rgb(156, 43, 43);/*Cambio de color a rojo*/
+    background-color:white;
     color: rgba(0, 0, 0, 0.699) ;
     width: 80%;
     max-width: 20rem;
@@ -66,8 +66,8 @@ img:hover{
     color: rgba(74, 27, 151, 0.336);
     font-size: 2rem;
 }
-.contenedor i:hover{ /*Hover nos da el efecto sobre el icono*/
-    color: rgba(96, 87, 209, 0.479);
+.contenedor i:hover{ /*Efecto sobre el icono*/
+    color: rgba(32, 25, 124, 0.479);
     font-size: 2rem;
     transform: scale(1.5);
     transition: transform .1s;
